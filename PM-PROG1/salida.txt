@@ -1,0 +1,25 @@
+------------------------------------------------
+Numero de inscripcion: 31660
+Nombre:   Camila
+Apellido: Lucero
+DNI:      34043432
+Carreras:
+  <11> Prof. Fisica
+Aprobo ingreso? No
+Estado: Aspirante
+Celular: 54+2664982212
+------------------------------------------------
+
+------------------------------------------------
+Numero de inscripcion: 10819
+Nombre:   Juan
+Apellido: Cruz
+DNI:      35300139
+Carreras:
+  <1> Ing. Electronica con orientacion en sistemas digitales
+  <22> Tecnicatura Web
+Aprobo ingreso? No
+Estado: Preinscripto
+Celular: 54+2664304012
+------------------------------------------------
+

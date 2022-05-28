@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1608033482 source:c:\users\matias\documents\unsl\computacion\proyecto maquina\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607891375 c:\users\matias\documents\unsl\computacion\proyecto maquina\ingresante.h
+	"celular.h"
+
+1607832049 c:\users\matias\documents\unsl\computacion\proyecto maquina\celular.h
+
+1607836704 c:\users\matias\documents\unsl\computacion\proyecto maquina\lista_ingresante.h
+	"ingresante.h"
+
+1608015874 source:c:\users\juan_\desktop\universidad\2020\programacion i\practicos\15-12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607873374 c:\users\juan_\desktop\universidad\2020\programacion i\practicos\15-12\ingresante.h
+	"celular.h"
+
+1607814048 c:\users\juan_\desktop\universidad\2020\programacion i\practicos\15-12\celular.h
+
+1607818704 c:\users\juan_\desktop\universidad\2020\programacion i\practicos\15-12\lista_ingresante.h
+	"ingresante.h"
+
+1608015874 source:c:\users\ginop\onedrive\documentos\proyectos finales 20-21\tpm-programación i\15-12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ingresante.h"
+	"lista_ingresante.h"
+
+1607873374 c:\users\ginop\onedrive\documentos\proyectos finales 20-21\tpm-programación i\15-12\ingresante.h
+	"celular.h"
+
+1607814048 c:\users\ginop\onedrive\documentos\proyectos finales 20-21\tpm-programación i\15-12\celular.h
+
+1607818704 c:\users\ginop\onedrive\documentos\proyectos finales 20-21\tpm-programación i\15-12\lista_ingresante.h
+	"ingresante.h"
+
